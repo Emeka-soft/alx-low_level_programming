@@ -1,0 +1,2 @@
+#!/bin/ba
+gcc -E $CFILE o- c
